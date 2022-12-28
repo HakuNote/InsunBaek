@@ -16,7 +16,7 @@ k<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Pyt
 
 -->
 
-- 👋 Hi, I’m @InsunBaek
+- 👋 Hi, I’m @Baek In-sun
 - 👀 I’m interested in Go/Web/Node.js/etc
 - 🌱 I’m currently learning Network/Web
 - 📫 How to reach me : Xecell515@gmail.com
